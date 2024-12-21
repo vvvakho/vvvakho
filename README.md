@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey, I'm Vakho 👋
+### I'm a backend developer specializing in Golang. Here's some of my favourite tools:
 
 [![My Skills](https://skillicons.dev/icons?i=go,py,js,bash,neovim,git,docker,kubernetes,redis,postgres,mongodb,aws,)](https://skillicons.dev)
 
