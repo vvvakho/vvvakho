@@ -1,14 +1,15 @@
 ## Hey, I'm Vakho 👋
 
-I'm a backend developer specializing in Golang. 
+I'm a backend developer specializing in Go. 
 Here's some of my favourite tools:
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,js,bash,neovim,git,docker,kubernetes,redis,postgres,mongodb,aws,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,neovim,py,js,bash,git,docker,kubernetes,redis,postgres,mongodb,aws,)](https://skillicons.dev)
 
-* Finance and Economics Specialist by education. Software Engineer and Musician by heart.
-* Througout my career I've managed projects of $2mm+ for Amazon, MGM Studios, Disney, and such.
-* I've written, recorded and produced a [full length album](https://youtube.com/playlist?list=OLAK5uy_ktRZbOSSGnVEOC1Grz_2c6UGW3trUMPTs&si=uWh5lbRrKf91wKmU)
-* Fluent in English, Russian, and Georgian.
+* Finance and Economics Specialist by education.
+* Software Engineer and Musician by heart.
+* University of Toronto - Rotman Commerce.
+* I've written, recorded and produced a [full-length album](https://youtube.com/playlist?list=OLAK5uy_ktRZbOSSGnVEOC1Grz_2c6UGW3trUMPTs&si=uWh5lbRrKf91wKmU)
+* Fluent in English, Georgian, and Russian.
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vvvakho)](https://github.com/anuraghazra/github-readme-stats) -->
 
