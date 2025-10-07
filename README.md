@@ -1,14 +1,12 @@
 ## Hey, I'm Vakho 👋
 
-I'm a backend developer specializing in Go. 
-Here's some of my favourite tools:
+I'm a Software Engineer specializing in Go. 
+Here are some of my favourite tools:
 
-[![My Skills](https://skillicons.dev/icons?i=go,neovim,py,js,bash,git,docker,kubernetes,redis,postgres,mongodb,aws,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,neovim,py,ts,bash,linux,docker,postgres,mongodb)](https://skillicons.dev)
 
-* Finance and Economics Specialist by education.
-* Software Engineer and Musician by heart.
+* I love building at the intersection of Finance and Technology.
 * University of Toronto - Rotman Commerce.
-* I've written, recorded and produced a [full-length album](https://youtube.com/playlist?list=OLAK5uy_ktRZbOSSGnVEOC1Grz_2c6UGW3trUMPTs&si=uWh5lbRrKf91wKmU)
 * Fluent in English, Georgian, and Russian.
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vvvakho)](https://github.com/anuraghazra/github-readme-stats) -->
