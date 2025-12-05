@@ -5,7 +5,7 @@ Here are some of my favourite tools:
 
 [![My Skills](https://skillicons.dev/icons?i=go,neovim,py,ts,bash,linux,docker,postgres,mongodb)](https://skillicons.dev)
 
-* I love building at the intersection of Finance and Technology.
+* Building at the intersection of Finance and Technology.
 * University of Toronto - Rotman Commerce.
 * Fluent in English, Georgian, and Russian.
 
