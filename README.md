@@ -1,11 +1,11 @@
 ## Hey, I'm Vakho 👋
 
-I'm a Software Engineer specializing in Go. 
+I'm a Software and AI Engineer specializing in Go and Python. 
 Here are some of my favourite tools:
 
 [![My Skills](https://skillicons.dev/icons?i=go,neovim,py,ts,bash,linux,docker,postgres,mongodb)](https://skillicons.dev)
 
-* Building at the intersection of Finance and Technology.
+* Building AI agents and intelligent systems.
 * University of Toronto - Rotman Commerce.
 * Fluent in English, Georgian, and Russian.
 
